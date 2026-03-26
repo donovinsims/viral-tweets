@@ -32,3 +32,19 @@
 ## 5. Modern Operational System
 - **Systems > Manual Work**: "16-hour days are for testing and validating. Once it works, outsource or automate."
 - **The Checklist Habit**: "Turn every project into micro-steps on a checklist. Print it physically for focus."
+
+## 6. The "Conversion vs Awareness" Framework
+- **Awareness**: Tips, tools, and motivation. (Builds followers, not buyers).
+- **Conversion**: Shifts beliefs, installs mechanism belief, demonstrates proof. (Builds buyers).
+- **The 7-Step conversion post**:
+    1. ICP Awareness (Identify problem)
+    2. Mechanism Belief (Does your approach work?)
+    3. Educate toward Offer
+    4. Demonstrate Proof (Case studies)
+    5. Awareness of Service
+    6. Narrative/Emotional Story
+    7. Soft CTA
+
+## 7. LinkedIn B2B Formula
+- Formula: ICP Resonance + Lead Magnets + High-Authority Boost = Inbound Leads.
+- Turn on the Outbound engine simultaneously. The algorithm shows your content to people you've reached out to, even if they ghost you.
